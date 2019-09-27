@@ -15,4 +15,7 @@ class jsonexport implements can_export {
         // TODO: Implement export() method.
         echo "data exported in json";
     }
+    public function import(){
+
+    }
 }
